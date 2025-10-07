@@ -1,13 +1,41 @@
-- 👋 Hi, I’m @Sajrudin
-- 👀 I’m interested in Machine Learning.
-- 🌱 Currently studying at Graphic Era Hill University, Dehradun.
-- ⚡ Learning Machine Learning and Deep Learning Concepts
-- 💞️ I’m looking to collaborate on Projects related to Data Science and Machine Learning
-- 📫 Contact me #aalamsajrudin@gmail.com
-- 😄 Pronouns: He/Him/His
+# 👋 Hi, I’m **Sajrudin Aalam**
 
+🌟 **Aspiring Machine Learning & Data Science Enthusiast**  
 
-<!---
-Sajrudin/Sajrudin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 About Me
+- Currently pursuing **B.Tech in Computer Science & Engineering** at **Graphic Era Hill University, Dehradun**.  
+- Passionate about **Machine Learning**, **Deep Learning**, and **Data Science**.  
+- Strong **problem-solving skills** with a curiosity to learn and implement advanced ML concepts.  
+
+---
+
+## 🌱 Currently Learning
+- **Machine Learning Algorithms** (Supervised & Unsupervised)  
+- **Deep Learning Concepts** (CNN, RNN, Transformers)  
+- **Data Analysis & Visualization** using Python, Pandas, NumPy, Plotly, and Tableau  
+
+---
+
+## 💞️ I’m Looking to Collaborate On
+- **Projects related to Data Science, Machine Learning & Deep Learning**  
+- **AI applications for real-world problems**, including **finance, healthcare, and education**  
+
+---
+
+## 📫 Contact Me
+- Email: [aalamsajrudin@gmail.com](mailto:aalamsajrudin@gmail.com)  
+- LinkedIn: [linkedin.com/in/sajrudin-aalam-21b861287](https://www.linkedin.com/in/sajrudin-aalam-21b861287/)  
+
+---
+
+## ⚡ Fun Facts
+- Pronouns: **He/Him/His**  
+- Quick learner & highly motivated  
+- Always exploring **new technologies & innovative solutions**  
+
+---
+
+> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+
